@@ -62,10 +62,6 @@ Here are some ideas to get you started:
 <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="50" height="50"/> 
 </a>
-<a href="https://crates.io/crates/wgpu" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/gfx-rs/wgpu/trunk/logo.png" alt="Wgpu" width="50" height="50"/> 
-</a>
-
 
 
 
