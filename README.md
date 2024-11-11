@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
 </a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/> 
 </a>
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"> 
