@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://en.wikipedia.org/wiki/Pandas_%28software%29#/media/File:Pandas_logo.svg" alt="pandas" width="150" height="50"/> 
 </a>
 <a href="https://plotly.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="120" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="150" height="50"/> 
 </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/> 
