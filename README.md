@@ -51,10 +51,10 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="tensorflow" width="50" height="50"/> 
 </a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" alt="pandas" width="150" height="50"/> 
+  <img src="https://en.wikipedia.org/wiki/Pandas_%28software%29#/media/File:Pandas_logo.svg" alt="pandas" width="150" height="50"/> 
 </a>
 <a href="https://plotly.com" target="_blank" rel="noreferrer"> 
-  <img src="https://global.discourse-cdn.com/flex020/uploads/plot/original/3X/2/5/25cce3c59b59258b5cc72421afe3728e8dbcd245.png" alt="plotly" width="150" height="40"/> 
+  <img src="https://en.wikipedia.org/wiki/Plotly#/media/File:Plotly-logo.png" alt="plotly" width="150" height="40"/> 
 </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/> 
