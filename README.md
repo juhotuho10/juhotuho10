@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="tensorflow" width="50" height="50"/> 
 </a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> 
-  <img src="https://en.wikipedia.org/wiki/Pandas_%28software%29#/media/File:Pandas_logo.svg" alt="pandas" width="150" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="150" height="50"/> 
 </a>
 <a href="https://plotly.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="150" height="50"/> 
