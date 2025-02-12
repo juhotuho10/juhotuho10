@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Mimir phone application](https://github.com/DanielBlomberg1/mimir) as a part of my programming projects course
-- 🎄  Working on Advent of Code challenges of my free time, preparing for 2024 Advent of Code 
-- 🌱 I’m currently learning more about Rust programming and how to be proficient with the language
+- 🔭 I’m currently working on a [embedded midi player](https://github.com/juhotuho10/rust_midi_synth). The goal is to have a portable midi song player, comparable to a modern [music box](https://en.wikipedia.org/wiki/Music_box) 
+- 🌱 I’m currently learning more about embedded Rust programming and working with microcontrollers 
 - 💬 Ask me about my [GPU raytracer](https://github.com/juhotuho10/rust_GPU_raytracing)
 
 <h3 align="left">Languages and Tools:</h3>
