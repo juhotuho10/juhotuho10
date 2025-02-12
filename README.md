@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a [embedded midi player](https://github.com/juhotuho10/rust_midi_synth). The goal is to have a portable midi song player, comparable to a modern [music box](https://en.wikipedia.org/wiki/Music_box) 
+- 🔭 I’m currently working on a [embedded midi player](https://github.com/juhotuho10/rust_midi_synth). The goal is to have a portable midi song player that synthesizes the sound for midi files with many different buzzers, comparable to a modern [music box](https://en.wikipedia.org/wiki/Music_box) 
 - 🌱 I’m currently learning more about embedded Rust programming and working with microcontrollers 
 - 💬 Ask me about my [GPU raytracer](https://github.com/juhotuho10/rust_GPU_raytracing)
 
