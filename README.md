@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> 
 </a>
 <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> 
-  <img src="https://static-00.iconduck.com/assets.00/regex-icon-512x512-z87iemwl.png" alt="regex" width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" alt="regex" width="50" height="50"/> 
 </a>
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/> 
