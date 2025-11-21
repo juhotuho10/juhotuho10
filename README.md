@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.haskell.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="60" height="70"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="70" height="70"/><br/>
       <small>Haskell</small>
     </a>
   </td>
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 80px; padding: 0px;">
     <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="80" height="55"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="80" height="70"/><br/>
       <small>scikit-learn</small>
     </a>
   </td>
