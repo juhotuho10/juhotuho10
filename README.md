@@ -129,7 +129,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 80px; padding: 0px;">
     <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="80" height="70"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="80" height="75"/><br/>
       <small>scikit-learn</small>
     </a>
   </td>
