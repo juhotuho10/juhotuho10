@@ -42,12 +42,6 @@ Here are some ideas to get you started:
       <small>Java</small>
     </a>
   </td>
-  <td style="border: none; text-align: center; width: 110px; padding: 0px;">
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/><br/>
-      <small>SQL</small>
-    </a>
-  </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://isocpp.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" height="50"/><br/>
@@ -55,9 +49,33 @@ Here are some ideas to get you started:
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" alt="c" width="45" height="50"/><br/>
+      <small>C</small>
+    </a>
+  </td>
+  <td style="border: none; text-align: center; width: 70px; padding: 0px;">
+    <a href="https://www.haskell.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="50" height="50"/><br/>
+      <small>Haskell</small>
+    </a>
+  </td>
+  <td style="border: none; text-align: center; width: 70px; padding: 0px;">
+    <a href="https://www.erlang.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1280px-Erlang_logo.svg.png" alt="erlang" width="50" height="50"/><br/>
+      <small>Erlang</small>
+    </a>
+  </td>
+  <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="50"/><br/>
       <small>MATLAB</small>
+    </a>
+  </td>
+  <td style="border: none; text-align: center; width: 110px; padding: 0px;">
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/><br/>
+      <small>SQL</small>
     </a>
   </td>
 </tr>
