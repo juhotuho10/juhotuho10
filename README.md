@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my [GPU raytracer](https://github.com/juhotuho10/rust_GPU_raytracing)
 
 <h3 align="left">Programming Languages:</h3>
-<div style="display:flex; gap:1px; align-items:center;">
+<div style="display:flex; gap:1px; align-items:center; flex-wrap:wrap;">
   <div style="text-align:center; width:70px; display:inline-block;">
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="50" height="50"/><br/>
