@@ -21,65 +21,66 @@ Here are some ideas to get you started:
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Rust</small>
+      <small>Rust</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Python</small>
+      <small>Python</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Kotlin</small>
+      <small>Kotlin</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Java</small>
+      <small>Java</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://isocpp.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">C++</small>
+      <small>C++</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" alt="c" width="45" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">C</small>
+      <small>C</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.haskell.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="70" height="70"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Haskell</small>
+      <small>Haskell</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.erlang.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1280px-Erlang_logo.svg.png" alt="erlang" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Erlang</small>
+      <small>Erlang</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">MATLAB</small>
+      <small>MATLAB</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 110px; padding: 0px;">
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">SQL</small>
+      <small>SQL</small>
     </a>
   </td>
 </tr>
 </table>
+
 
 <h3 align="left">Tools and Libraries:</h3>
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -87,49 +88,49 @@ Here are some ideas to get you started:
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" alt="regex" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Regex</small>
+      <small>Regex</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://numpy.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">NumPy</small>
+      <small>NumPy</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://pytorch.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">PyTorch</small>
+      <small>PyTorch</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="tensorflow" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">TensorFlow</small>
+      <small>TensorFlow</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 150px; padding: 0px;">
     <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="150" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Pandas</small>
+      <small>Pandas</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 150px; padding: 0px;">
     <a href="https://plotly.com" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="150" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Plotly</small>
+      <small>Plotly</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://jupyter.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">Jupyter</small>
+      <small>Jupyter</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 80px; padding: 0px;">
     <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="80" height="70"/><br/>
-      <small style="display: block; text-align: center; margin-top: 5px;">scikit-learn</small>
+      <small>scikit-learn</small>
     </a>
   </td>
 </tr>
