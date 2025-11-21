@@ -123,8 +123,8 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://jupyter.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/><br/>
-      <small>Jupyter</small>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebooks" width="50" height="50"/><br/>
+      <small>Jupyter notebooks</small>
     </a>
   </td>
   <td style="border: none; text-align: center; width: 85px; padding: 0px;">
