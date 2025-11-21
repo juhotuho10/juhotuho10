@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://www.haskell.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="50" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="50" height="60"/><br/>
       <small>Haskell</small>
     </a>
   </td>
