@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="50" height="50"/> 
 </a>
+<br><br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=juhotuho10&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
