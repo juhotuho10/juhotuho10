@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my [GPU raytracer](https://github.com/juhotuho10/rust_GPU_raytracing)
 
 <h3 align="left">Programming Languages:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); gap: 10px; align-items: center; margin-bottom: 20px;">
   <div style="text-align: center; width: 70px;">
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="50" height="50"/><br/>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="left">Tools and Libraries:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); gap: 10px; align-items: center; margin-bottom: 20px;">
   <div style="text-align: center; width: 70px;">
     <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" alt="regex" width="50" height="50"/><br/>
