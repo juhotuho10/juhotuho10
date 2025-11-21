@@ -16,20 +16,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about my [GPU raytracer](https://github.com/juhotuho10/rust_GPU_raytracing)
 
 <h3 align="left">Programming Languages:</h3>
-<div align="center" style="overflow: hidden;">
-  <div style="float: left; margin: 10px; text-align: center;">
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="50" height="50"/><br/>
-      <small>Rust</small>
-    </a>
-  </div>
-  <div style="float: left; margin: 10px; text-align: center;">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><br/>
-      <small>Python</small>
-    </a>
-  </div>
-  <!-- Repeat for other items -->
+<div align="center">
+  <div style="display: inline-block; margin: 10px; text-align: center;"><!--
+ --><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="50" height="50"/><br/><small>Rust</small></a><!--
+ --></div><!--
+ --><div style="display: inline-block; margin: 10px; text-align: center;"><!--
+ --><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><br/><small>Python</small></a><!--
+ --></div>
 </div>
 
 
