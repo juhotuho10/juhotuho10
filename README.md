@@ -115,6 +115,12 @@ Here are some ideas to get you started:
       <small>Pandas</small>
     </a>
   </td>
+  <td style="border: none; text-align: center; width: 100px; padding: 10px;">
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" width="100" height="50"/><br/>
+    <small>PySpark</small>
+  </a>
+  </td>
   <td style="border: none; text-align: center; width: 150px; padding: 0px;">
     <a href="https://plotly.com" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="150" height="50"/><br/>
