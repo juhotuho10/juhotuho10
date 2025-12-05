@@ -143,5 +143,5 @@ Here are some ideas to get you started:
 </table>
 <br><br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=juhotuho10&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-azure-zeta-59.vercel.app/api/top-langs?username=juhotuho10&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
