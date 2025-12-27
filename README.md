@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" alt="c" width="45" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" alt="c" width="45" height="50"/><br/>
       <small>C</small>
     </a>
   </td>
