@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 110px; padding: 0px;">
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/960px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/><br/>
       <small>SQL</small>
     </a>
   </td>
