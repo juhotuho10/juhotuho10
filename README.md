@@ -72,9 +72,9 @@ Here are some ideas to get you started:
       <small>MATLAB</small>
     </a>
   </td>
-  <td style="border: none; text-align: center; width: 110px; padding: 0px;">
+  <td style="border: none; text-align: center; width: 115px; padding: 0px;">
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/960px-Sql_data_base_with_logo.svg.png" alt="sql" width="110" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/960px-Sql_data_base_with_logo.svg.png" alt="sql" width="115" height="50"/><br/>
       <small>SQL</small>
     </a>
   </td>
@@ -109,9 +109,9 @@ Here are some ideas to get you started:
       <small>TensorFlow</small>
     </a>
   </td>
-  <td style="border: none; text-align: center; width: 150px; padding: 0px;">
+  <td style="border: none; text-align: center; width: 130px; padding: 0px;">
     <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="150" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="130" height="50"/><br/>
       <small>Pandas</small>
     </a>
   </td>
@@ -121,9 +121,9 @@ Here are some ideas to get you started:
     <small>PySpark</small>
   </a>
   </td>
-  <td style="border: none; text-align: center; width: 150px; padding: 0px;">
+  <td style="border: none; text-align: center; width: 170px; padding: 0px;">
     <a href="https://plotly.com" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="150" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="170" height="50"/><br/>
       <small>Plotly</small>
     </a>
   </td>
