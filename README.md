@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </td>
   <td style="border: none; text-align: center; width: 70px; padding: 0px;">
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin" width="50" height="50"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="50" height="50"/><br/>
       <small>Kotlin</small>
     </a>
   </td>
